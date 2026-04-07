@@ -81,6 +81,12 @@ timeline
 
 ## JASP hackathon(s)
 
+--
+
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/hackathon0.png?raw=true)
+
+--
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/hackathon1.png?raw=true)
 
 
 ---
