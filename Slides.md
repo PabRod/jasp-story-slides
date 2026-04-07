@@ -34,6 +34,8 @@ timeline
 
 ## What is JASP?
 
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/jasp.png?raw=true)
+
 --
 
 ## Researchers and software
@@ -88,6 +90,7 @@ timeline
 --
 ![](https://github.com/PabRod/jasp-story-slides/blob/main/img/hackathon1.png?raw=true)
 
+note: mention also the JASP student group
 
 ---
 
