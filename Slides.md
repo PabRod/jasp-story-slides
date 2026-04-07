@@ -67,14 +67,15 @@ timeline
 
 --
 
-![[https://github.com/PabRod/jasp-story-slides/blob/main/img/docs0.png?raw=true]]
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/docs0.png?raw=true)
 
 --
 
-![[https://github.com/PabRod/jasp-story-slides/blob/main/img/docs1.png?raw=true]]
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/docs1.png?raw=true)
 
 --
-![[https://github.com/PabRod/jasp-story-slides/blob/main/img/docs3.png?raw=true]]
+![](https://github.com/PabRod/jasp-story-slides/blob/main/img/docs3.png?raw=true)
+
 
 ---
 
